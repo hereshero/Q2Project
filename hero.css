@@ -1,0 +1,39 @@
+.image{
+	height: 200px;
+	border-radius: 50px;
+	padding: 10px;
+	align-content: center;
+	border-color: black;
+	border-style: solid;
+}
+
+body{
+	color:  white;
+	margin:  100px;
+	background-color: #F5F5F5;
+	font-family: sans-serif;
+	color: BLACK;
+}
+
+h1{
+	text-transform: uppercase;
+	letter-spacing: 11px;
+	text-shadow:  1px 1px 7px #F54D42;
+
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.profile{
+	border-radius:  50%;
+	height:  60px;
+	border-color: #3F0071;
+	border-style: inset;
+}
+
+
+.div1 {
+	text-align: center;
+}
